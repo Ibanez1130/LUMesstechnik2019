@@ -1,0 +1,11 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{4}% 
+\contentsline {section}{\numberline {2}Übungsdurchführung}{6}% 
+\contentsline {subsection}{\numberline {2.1}Strommessung}{6}% 
+\contentsline {subsection}{\numberline {2.2}Widerstandsmessung}{7}% 
+\contentsline {subsection}{\numberline {2.3}Impedanzmessung}{9}% 
+\contentsline {subsection}{\numberline {2.4}Fehlerfortpflanzung}{13}% 
+\contentsline {subsection}{\numberline {2.5}Impedanzmessung mittels LCR-Meter}{15}% 
+\contentsline {subsection}{\numberline {2.6}5/8-Methode}{16}% 
+\contentsline {subsection}{\numberline {2.7}Leistungsmessung}{18}% 
+\contentsline {section}{\numberline {3}Verwendete Geräte}{20}% 

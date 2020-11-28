@@ -1,0 +1,28 @@
+\babel@toc {ngerman}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Simulink Modell zur Bestimmung des Mittelwerts\relax }}{6}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Kennlinie - Reflektor 1\relax }}{8}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Kennlinie - Reflektor 2\relax }}{8}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Positionsabweichung der Kennlinie von der linearen Approximation - Reflektor 1, Messbereich 1. Maximale Abweichung: 0.2748mm\relax }}{9}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Positionsabweichung der Kennlinie von der linearen Approximation - Reflektor 1, Messbereich 2. Maximale Abweichung: 0.2484mm\relax }}{9}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Positionsabweichung der Kennlinie von der linearen Approximation - Reflektor 2, Messbereich 1. Maximale Abweichung: 0.2928mm\relax }}{10}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Positionsabweichung der Kennlinie von der linearen Approximation - Reflektor 2, Messbereich 2. Maximale Abweichung: 0.2781mm\relax }}{10}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Simulink Modell zur Bestimmung der Standardabweichung und des Spitze-Spitze-Werts des Rauschens\relax }}{12}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Simulink Modell mit Spectrum Analyzer\relax }}{14}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces Ausgeschaltete Lampe. Mittelwert: $0.01718V$. Standardabweichung: $0.01232V$. Spitze-Spitze-Wert: $0.08789V$.\relax }}{14}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Eingeschaltete Lampe. Mittelwert: $0.6646V$. Standardabweichung: $0.02024V$. Spitze-Spitze-Wert: $0.1331V$.\relax }}{15}% 
+\contentsline {figure}{\numberline {12}{\ignorespaces Ausgeschaltete Lampe mit Raumbeleuchtung. Mittelwert: $0.03695V$. Standardabweichung: $0.01304V$. Spitze-Spitze-Wert: $0.08881V$.\relax }}{15}% 
+\contentsline {figure}{\numberline {13}{\ignorespaces Eingeschaltete Lampe mit Raumbeleuchtung. Mittelwert: $0.7425V$. Standardabweichung: $0.02077V$. Spitze-Spitze-Wert: $0.1389V$.\relax }}{16}% 
+\contentsline {figure}{\numberline {14}{\ignorespaces Aufbau eines PSSG mit einem Tiefpassfilter zur Mittelwertbildung.\relax }}{17}% 
+\contentsline {figure}{\numberline {15}{\ignorespaces Signalverläufe des PSSGs in Abhängigkeit von der Phasenverschiebung.\relax }}{18}% 
+\contentsline {figure}{\numberline {16}{\ignorespaces Simulink Modell des Phasenselektiver Synchrongleichrichters.\relax }}{18}% 
+\contentsline {figure}{\numberline {17}{\ignorespaces Signale des PSSG bei $0^{\circ }$ Phasenverschiebung\relax }}{19}% 
+\contentsline {figure}{\numberline {18}{\ignorespaces Signale des PSSG bei $45^{\circ }$ Phasenverschiebung\relax }}{20}% 
+\contentsline {figure}{\numberline {19}{\ignorespaces Signale des PSSG bei $90^{\circ }$ Phasenverschiebung\relax }}{21}% 
+\contentsline {figure}{\numberline {20}{\ignorespaces Ausgangssignal mit Einschaltvorgang, bei $100.5Hz$. Links ohne Störung, rechts mit $100Hz$ Störung\relax }}{22}% 
+\contentsline {figure}{\numberline {21}{\ignorespaces Ausgangssignal mit Einschaltvorgang, bei $20Hz$. Links ohne Störung, rechts mit Störung\relax }}{23}% 
+\contentsline {figure}{\numberline {22}{\ignorespaces Ausgangssignal mit Einschaltvorgang, bei $33.4Hz$. Links ohne Störung, rechts mit Störung\relax }}{23}% 
+\contentsline {figure}{\numberline {23}{\ignorespaces Ausgangssignal mit Einschaltvorgang, bei $75.1Hz$. Keine Störung\relax }}{24}% 
+\contentsline {figure}{\numberline {24}{\ignorespaces Aufbau eines PUSD\relax }}{25}% 
+\contentsline {figure}{\numberline {25}{\ignorespaces Simulink Modell eines PUSD\relax }}{26}% 
+\contentsline {figure}{\numberline {26}{\ignorespaces Messung bei angeschalteter Lampe. Links mit $21Hz$, rechts mit $34Hz$ Ausgangsspannung. In beiden Fällen tritt keine Störung auf.\relax }}{27}% 
+\contentsline {figure}{\numberline {27}{\ignorespaces Messung bei angeschalteter Lampe. Links mit $102Hz$, rechts mit $110Hz$ Ausgangsspannung. Bei $102Hz$ ist, wie erwartet, eine Störung sichtbar.\relax }}{27}% 

@@ -1,0 +1,7 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{4}% 
+\contentsline {section}{\numberline {2}Übungsdurchführung}{5}% 
+\contentsline {subsection}{\numberline {2.1}Charakterisierung des Näherungssensors}{5}% 
+\contentsline {subsection}{\numberline {2.2}Phasenselektiver Synchrongleichrichter}{17}% 
+\contentsline {subsection}{\numberline {2.3}Phasenunabhängiger Synchrondemodulator}{25}% 
+\contentsline {section}{\numberline {3}Verwendete Geräte}{29}% 
